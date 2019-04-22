@@ -32,20 +32,30 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The DOM stands for Document Object Module and it is way to edit a page without changing the HTML of the page but accessing the CSS qualities.
+
 2. What is an event?
+
+Events are different things that are actions on the page. Such as creating a even for mouse over. When one hovers the mouse over the page then it may change a different color in the style format.
 
 3. What is an event listener?
 
+An event listener is a method that is used to invoke events and generally consists of two elements. First the event to listen for and then the callback that fires once the event is requested. 
+
 4. Why would we convert a NodeList into an Array?
 
+You can do more things such as using a map. If it is a Nodelist then map attributes cannot be used.
+
 5. What is a component?
+
+Is made up of several different parts to form a page. The HTML the CSS and the JS.
 
 ### Git Set up
 
 * [x] Fork the project into your GitHub user account
 * [x] Clone the forked project into a directory on your machine
-* [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-* [ ] You are now ready to build this project with your preferred IDE
+* [x] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+* [x] You are now ready to build this project with your preferred IDE
 
 ## Minimum Viable Product
 
